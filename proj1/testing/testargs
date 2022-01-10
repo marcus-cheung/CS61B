@@ -1,0 +1,7 @@
+testing/correct/default.conf testing/correct/trivial.in
+
+testing/correct/default.conf testing/correct/trivial1.in
+
+testing/tests/1/setting.conf testing/tests/1/input.in testing/tests/1/output.out
+
+testing/tests/2/setting.conf testing/tests/2/input.in testing/tests/2/output.out

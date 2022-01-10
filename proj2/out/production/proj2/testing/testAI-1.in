@@ -1,0 +1,8 @@
+#* java -ea jump61.Main
+# Check that auto player can find the move that wins the game immediately. (Plays 3 games)
+size 2
+set 1 1 2 r
+auto red
+auto blue
+dump
+quit
